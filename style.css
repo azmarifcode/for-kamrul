@@ -45,5 +45,20 @@ body {
 }
 
 p {
-    text-align: justify;
+    text-align: justify; 
+}
+
+
+/* last part  */
+
+header, footer {
+    width: 100vw;
+    height: 300px;
+    background-color: blueviolet;
+}
+header {
+    margin-bottom: 100px;
+}
+footer {
+    margin-top: 950px;
 }
